@@ -1,8 +1,11 @@
 {
-"spider":"./jar/fm.nogo.20231106-1519.jar.jar;md5;fdd6178096f961183a86d2d270616af3",
+"spider":"./jar/fm.nogo.jar;md5;e2fe217c83e8fc27153ec703dca9c326",
 "lives":[{"name":"初秋语","type":0,"url":"./listx.txt"},
+{"name":"YanG","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/YanG-1989/m3u/main/Adult.m3u"},
+{"name":"atsushi","type":0,"url":"https://ghproxy.com/https://raw.githubusercontent.com/atsushi444/iptv-epg/main/Adult.m3u"},
 {"name":"AV","type":0,"url":"./livex.m3u"}
 ]，
+"wallpaper":"https://liu.chuqiuyu.tk",
 "sites":[
 {"key":"lf_js_search","name":"搜索|lf_search","type":3,"searchable":0,"changeable":1,"quickSearch":0,"filterable":0,"api":"./lib/lf_search3_min.js","ext":"18+"},
 {"key":"lf_js_p2p","name":"磁力|lf_p2p","type":3,"searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"api":"./lib/lf_p2p2_min.js","ext":"18+","timeout":60},
